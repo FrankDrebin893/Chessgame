@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RasmusHojte.Chess.Models/1.0.0": {
+        "runtime": {
+          "RasmusHojte.Chess.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RasmusHojte.Chess.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

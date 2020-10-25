@@ -1,0 +1,9 @@
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\bin\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.deps.json
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\bin\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.dll
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\bin\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.pdb
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.csprojAssemblyReference.cache
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.AssemblyInfoInputs.cache
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.AssemblyInfo.cs
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.csproj.CoreCompileInputs.cache
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.dll
+C:\repos\Chessgame\server\RasmusHojte.Chess.RuleEngine\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.RuleEngine.pdb
