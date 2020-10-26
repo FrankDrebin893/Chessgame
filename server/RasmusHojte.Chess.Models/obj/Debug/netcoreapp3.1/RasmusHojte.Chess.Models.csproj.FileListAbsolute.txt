@@ -1,9 +1,0 @@
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\bin\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.deps.json
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\bin\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.dll
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\bin\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.pdb
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.csprojAssemblyReference.cache
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.AssemblyInfoInputs.cache
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.AssemblyInfo.cs
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.csproj.CoreCompileInputs.cache
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.dll
-C:\repos\Chessgame\server\RasmusHojte.Chess.Models\obj\Debug\netcoreapp3.1\RasmusHojte.Chess.Models.pdb
