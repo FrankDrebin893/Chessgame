@@ -1,0 +1,1 @@
+dotnet watch --project tests/RasmusHojte.Chess.Tests test
